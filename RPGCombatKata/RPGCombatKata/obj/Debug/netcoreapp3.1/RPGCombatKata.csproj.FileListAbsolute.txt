@@ -1,0 +1,8 @@
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\bin\Debug\netcoreapp3.1\RPGCombatKata.deps.json
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\bin\Debug\netcoreapp3.1\RPGCombatKata.dll
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\bin\Debug\netcoreapp3.1\RPGCombatKata.pdb
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\obj\Debug\netcoreapp3.1\RPGCombatKata.csprojAssemblyReference.cache
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\obj\Debug\netcoreapp3.1\RPGCombatKata.AssemblyInfoInputs.cache
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\obj\Debug\netcoreapp3.1\RPGCombatKata.AssemblyInfo.cs
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\obj\Debug\netcoreapp3.1\RPGCombatKata.dll
+D:\ProcessoSeletivoIdeiaNoAr\RPGCombatKata\RPGCombatKata\obj\Debug\netcoreapp3.1\RPGCombatKata.pdb

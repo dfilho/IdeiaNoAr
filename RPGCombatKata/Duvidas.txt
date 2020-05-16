@@ -1,0 +1,2 @@
+Para a questão do ataque, não é especificado na documentação nada relativo a força do ataque, então defeni uma propriedade de nome Power que indicara este atributo.
+Como não há nada para diferenciar um personagem de outro, adicionei um id, que, por enquanto, será passado por parametro no construtor.
